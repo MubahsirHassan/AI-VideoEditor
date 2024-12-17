@@ -1,0 +1,15 @@
+torch @ https://download.pytorch.org/whl/cu116/torch-1.13.0%2Bcu116-cp38-cp38-linux_x86_64.whl
+torch-audiomentations==0.11.0
+torch-pitch-shift==1.2.2
+torchaudio @ https://download.pytorch.org/whl/cu116/torchaudio-0.13.0%2Bcu116-cp38-cp38-linux_x86_64.whl
+torchmetrics==0.11.0
+torchsummary==1.5.1
+torchtext==0.14.0
+torchvision @ https://download.pytorch.org/whl/cu116/torchvision-0.14.0%2Bcu116-cp38-cp38-linux_x86_64.whl
+whisper @ git+https://github.com/openai/whisper.git@0b5dcfdef7ec04250b76e13f1630e32b0935ce76
+deepgram-sdk
+setuptools-rust
+imageio==2.4.1
+moviepy
+streamlit
+pytube
